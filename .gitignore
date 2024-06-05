@@ -1,0 +1,7 @@
+.DS_Store
+debug.log
+enhanced_data/
+env/
+history/
+*model.zip
+*firebase*.json
